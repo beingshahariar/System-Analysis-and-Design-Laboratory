@@ -141,8 +141,6 @@ Through this laboratory project, the following System Analysis and Design concep
 
 **Course Title:** System Analysis and Design Laboratory
 
-**Course Code:** CSE 3412
-
 ---
 
 ## 📜 License
