@@ -1,6 +1,6 @@
 # 🗳️ System Analysis and Design Laboratory
 
-This repository contains the complete laboratory project for **System Analysis and Design (CSE 3412)**. It demonstrates the complete software development process of a real-world system, from requirement analysis to system design, documentation, and UI prototyping.
+This repository contains the complete laboratory project for **System Analysis and Design **. It demonstrates the complete software development process of a real-world system, from requirement analysis to system design, documentation, and UI prototyping.
 
 The project selected for this laboratory is **VoteBox – Smart Online Voting System**, developed by following Software Engineering and SDLC principles.
 
